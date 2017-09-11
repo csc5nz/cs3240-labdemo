@@ -1,2 +1,2 @@
 def greeting(msg):
-    print(msg)
+    print("test of helper, ", msg)
